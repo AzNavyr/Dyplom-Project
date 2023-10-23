@@ -1,19 +1,17 @@
 # ***План тестирования приложения (Application testing plan)***
-___
+***
  
 ## Содержание (Table of contents)
+1.  [Вступление (Introduction)](#Вступление-(Introduction))
+2.  [Описание программного обеспечения (Software Description)](#Описание-программного-обеспечения-(Software-Description))
+3.  [Рамки проекта (Project framework)](#Рамки-проекта-(Project-framework))
+4.  [План работы (Work plan)](#План-работы-(Work-plan))
+5.  [План и стратегия тестирования (Testing plan and strategy)](#План-и-стратегия-тестирования-(Testing-plan-and-strategy))
+6.  [Ресурсы (Resources)](#Ресурсы-(Resources))
+7.  [Перечень возможных рисков при тестировании (List of possible risks during testing)](#Перечень-возможных-рисков-при-тестировании-(List-of-possible-risks-during-testing))
+8.  [Временная оценка процесса тестирования, в часах (Time evaluation of the testing process, in hours)](#Временная-оценка-процесса-тестирования,-в-часах-(Time-evaluation-of-the-testing-process,-in-hours))
+9.  [Критерии оценки качества (Quality assessment criteria)](#Критерии-оценки-качества-(Quality-assessment-criteria))
 
-1. [Вступление (Introduction)](#Вступление-(Introduction))
-2. [Описание программного обеспечения (Software Description)](#Описание-программного-обеспечения-(Software-Description))
-3. [Рамки проекта (Project framework)](#Рамки-проекта-(Project-framework))
-4. [План работы (Work plan)](#План-работы-(Work-plan))
-5. [План и стратегия тестирования (Testing plan and strategy)](#План-и-стратегия-тестирования-(Testing-plan-and-strategy))
-6. [Ресурсы (Resources)](#Ресурсы-(Resources))
-7. [Перечень возможных рисков при тестировании (List of possible risks during testing)](#Перечень-возможных-рисков-при-тестировании-(List-of-possible-risks-during-testing))
-8. [Временная оценка процесса тестирования, в часах (Time evaluation of the testing process, in hours)](#Временная-оценка-процесса-тестирования,-в-часах-(Time-evaluation-of-the-testing-process,-in-hours))
-9. [Критерии оценки качества (Quality assessment criteria)](#Критерии-оценки-качества-(Quality-assessment-criteria))
-10. [](#)
-11. [](#)
 
 
 ## ***Вступление (Introduction)***
@@ -72,12 +70,12 @@ components and functions):
 * Выполнить каждый сценарий, используя допустимые и недопустимые
   данные (Execute each scenario using valid and invalid
   data):
-   * Ожидаемые результаты возникают при использовании верных
-     данных (The expected results occur when using the correct
-     data)
-   * Неожидаемые результаты возникают при использовании неверных
-     данных ( Unexpected results occur when using incorrect
-     data)
+  * Ожидаемые результаты возникают при использовании верных
+    данных (The expected results occur when using the correct
+    data)
+  * Неожидаемые результаты возникают при использовании неверных
+    данных ( Unexpected results occur when using incorrect
+    data)
 * Все дымовые тесты пройдены ( All smoke tests have been passed)
 * Нет блокирующих багов, все баги с высоким приоритетом поправлены (There are no blocking bugs, all bugs with high priority have been fixed)
 * Тесты пройдены (Tests passed)
