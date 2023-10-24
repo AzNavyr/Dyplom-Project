@@ -2,7 +2,7 @@
 ***
  
 ## Содержание (Table of contents)
-1.  [Вступление (Introduction)](Вступление-(Introduction))
+1.  [Вступление (Introduction)](#Вступление-(Introduction))
 2.  [Описание программного обеспечения (Software Description)](#Описание-программного-обеспечения-(Software-Description))
 3.  [Рамки проекта (Project framework)](#Рамки-проекта-(Project-framework))
 4.  [План работы (Work plan)](#План-работы-(Work-plan))
