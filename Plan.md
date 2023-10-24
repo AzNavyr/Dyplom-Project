@@ -3,17 +3,17 @@
  
 ## Содержание (Table of contents)
 
-1.  [Вступление (Introduction)](#Introduction)
-2.  [Описание программного обеспечения (Software Description)](#SoftwareDescription)
-3.  [Рамки проекта (Project framework)](#ProjectFramework)
-4.  [План работы (Work plan)](#WorkPlan)
-5.  [План и стратегия тестирования (Testing plan and strategy)](#Plan)
-6.  [Ресурсы (Resources)](#Resources)
-7.  [Перечень возможных рисков при тестировании (List of possible risks during testing)](#Risks)
-8.  [Временная оценка процесса тестирования, в часах (Time evaluation of the testing process, in hours)](#Time)
-9.  [Критерии оценки качества (Quality assessment criteria)](#Quality)
+1.  [Вступление (Introduction)](#Вступление-(Introduction))
+2.  [Описание программного обеспечения (Software Description)](#Описание-программного-обеспечения-(Software-Description))
+3.  [Рамки проекта (Project framework)](#Рамки-проекта-(Project-framework))
+4.  [План работы (Work plan)](#План-работы-(Work-plan))
+5.  [План и стратегия тестирования (Testing plan and strategy)](#План-и-стратегия-тестирования-(Testing-plan-and-strategy))
+6.  [Ресурсы (Resources)](#Ресурсы-(Resources))
+7.  [Перечень возможных рисков при тестировании (List of possible risks during testing)](#Перечень-возможных-рисков-при-тестировании-(List-of-possible-risks-uring-testing))
+8.  [Временная оценка процесса тестирования, в часах (Time evaluation of the testing process, in hours)](#Временная-оценка-процесса-тестирования,-в-часах-(Time-evaluation-of-the-testing-process,-in-hours))
+9.  [Критерии оценки качества (Quality assessment criteria)](#Критерии-оценки-качества-(Quality-assessment-criteria))
 
-## ***Вступление (Introduction)***<a id ="Introduction"></a>
+## ***Вступление (Introduction)*** 
 
 > Основная информация (Basic information):
 
@@ -27,14 +27,14 @@
 *  Определить необходимые ресурсы для проведения работ по тестированию (Determine the necessary resources to carry out testing work)
 *  Привести результаты тестирования (Provide the test results)
 
-## ***Описание программного обеспечения (Software Description)*** <a id ="SoftwareDescription"></a>
+## ***Описание программного обеспечения (Software Description)*** 
 
 > **Приложение предоставляет функционал по работе с претензиями хосписа и включает в себя (The application provides functionality for working with hospice claims and includes)**:
 * Информацию о претензиях и функционал для работы с ними (Information about claims and functionality for working with them).
 * Новостную сводку хосписа (The hospice news summary).
 * Тематические цитаты (Thematic quotes).
 
-## ***Рамки проекта (Project framework)*** <a id ="ProjectFramework"></a>
+## ***Рамки проекта (Project framework)*** 
 
 > В объем работ по тестированию сайта входит тестирование следующих
 компонентов и функций (The scope of site testing includes testing of the following
@@ -48,7 +48,7 @@ components and functions):
 - Блок "О приложении" (Block "About the application")
 - Блок цитат о хосписе (Block of quotes about the hospice)
 
-## ***План работы (Work plan)*** <a id ="WorkPlan"></a>
+## ***План работы (Work plan)*** 
 
 1. Подготовка плана тестирования (Preparation of a test plan)
 2. Составление чек листов, тест-кейсов и прочей документации (Compilation of checklists, test cases and other documentation)
@@ -56,7 +56,7 @@ components and functions):
 4. Функциональное тестирование и отчеты об ошибках (Functional testing and bug reports)
 5. Подготовка финального отчета (Preparation of the final report)
 
-## ***План и стратегия тестирования (Testing plan and strategy)*** <a id ="Plan"></a>
+## ***План и стратегия тестирования (Testing plan and strategy)*** 
 
 **Основные типы тестирования, которые будут выполнены (The main types of testing that will be performed):**
 * **Функциональное тестирование.** Цель данного вида тестирования убедиться, что приложение соответствует заявленным требованиям и в отсутствии критических или значимых ошибок (Functional testing. The purpose of this type of testing is to make sure that the application meets the stated requirements and that there are no critical or significant errors)
@@ -79,7 +79,7 @@ components and functions):
 * Нет блокирующих багов, все баги с высоким приоритетом поправлены (There are no blocking bugs, all bugs with high priority have been fixed)
 * Тесты пройдены (Tests passed)
 
-## ***Ресурсы (Resources)*** <a id ="Resources"></a>
+## ***Ресурсы (Resources)***
 
 **Перечень используемых устройств (List of devices used)**
  * PC (CPU: Intel Core i7-4710HQ, 2500 MHz, RAM 12 Gb, Win 10 x64)
@@ -91,13 +91,13 @@ components and functions):
  * Allure
  * Espresso 
 
-## ***Перечень возможных рисков при тестировании (List of possible risks during testing)*** <a id ="Risks"></a>
+## ***Перечень возможных рисков при тестировании (List of possible risks during testing)*** 
 
 * Отсутствие спецификации (No specification)
 * Недостаточная квалификация тестировщика (Insufficient qualification of the tester)
 * Высокая стоимость автоматизации и поддержания актуальности автотестов столь малого проекта (The high cost of automating and maintaining the relevance of autotests of such a small project)
 
-## ***Временная оценка процесса тестирования, в часах (Time evaluation of the testing process, in hours)*** <a id ="Time"></a>
+## ***Временная оценка процесса тестирования, в часах (Time evaluation of the testing process, in hours)*** 
 
 * Составление плана тестирования - 3 часа (Preparation of a test plan - 3 hours)
 * Составление чек-листа - 5 часов (Drawing up a checklist - 5 hours)
@@ -107,7 +107,7 @@ components and functions):
 * Проведение автоматизированного тестирования - 2 часа (Automated testing - 2 hours)
 * Формирование отчета о тестировании - 2 часа (Test report generation - 2 hours)
 
-## ***Критерии оценки качества (Quality assessment criteria)*** <a id ="Quality"></a>
+## ***Критерии оценки качества (Quality assessment criteria)***
 
 * Продукт должен работать (The product should work)
 * Продукт не должен содержать критических и блокирующих дефектов в окончательной версии проекта (The product must not contain critical and blocking defects in the final version of the project)
